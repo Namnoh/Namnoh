@@ -2,10 +2,10 @@
 
 I have studied Computer Engineering, and I am a tech enthusiast & a self learner.
 
-- 🌱 I’m currently learning * React, Next.js, and SvelteKit. *
-- 🤝 I’m looking to collaborate on Web Development Related Projects. **
+- 🌱 I’m currently learning <b>React, Next.js, and SvelteKit.</b>
+- 🤝 I’m looking to collaborate on <b>Web Development</b> Related Projects.
 - 😸 I’m open to receiving advice and suggestions.
-- 🥅 2025 Goals: To be profficient in React and Next.js.
+- 🥅 2025 Goals: To be profficient in <b>React and Next.js</b>.
 
 <p align="center">
     <a href="https://github.com/Namnoh/github-readme-streak-stats">
@@ -25,8 +25,8 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
