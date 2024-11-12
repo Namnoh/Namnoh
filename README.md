@@ -10,7 +10,7 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<h4> Languages </h4>
+<h3> Languages </h3>
 <span> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,7 +19,7 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
-<h4> Frameworks </h4>
+<h3> Frameworks </h3>
 <span>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -31,13 +31,13 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
     <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h3> Databases </h3>
 <span>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h3> Other Tools and Technologies </h3>
 <span>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white">
