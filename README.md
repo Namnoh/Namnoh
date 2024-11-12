@@ -56,7 +56,7 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
-## Connect With Me <img src="https://media.giphy.com/media/HKbjcQAXAAPdRA3TJ9/giphy.gif" width="30">&nbsp;
+## Connect With Me <img src="https://media.giphy.com/media/HKbjcQAXAAPdRA3TJ9/giphy.gif" width="30">
 <a href="mailto:ferm.programmer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fernandomunozfrias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Namnoh"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
