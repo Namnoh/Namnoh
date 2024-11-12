@@ -7,21 +7,10 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
 - 😸 I’m open to receiving advice and suggestions.
 - 🥅 2025 Goals: To be profficient in <b>React and Next.js</b>.
 
-<p align="center">
-    <a href="https://github.com/Namnoh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namnoh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Namnoh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-![Namnoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namnoh&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namnoh&theme=great-gatsby&layout=compact)](https://github.com/Namnoh)
-</br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
-    <span> 
+<span> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -65,15 +54,25 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </span>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="mailto:ferm.programmer@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/fernandomunozfrias/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Namnoh" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+## Connect with me <iframe src="https://giphy.com/embed/HKbjcQAXAAPdRA3TJ9" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/puck-pakku-pakk-HKbjcQAXAAPdRA3TJ9">via GIPHY</a></p>
+<a href="mailto:ferm.programmer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/fernandomunozfrias/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Namnoh" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     
-<br>
+## GitHub Stats <iframe src="https://giphy.com/embed/BOPrq7m5jYS1W" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/cute-BOPrq7m5jYS1W">via GIPHY</a></p>
+<p>
+    <a href="https://github.com/Namnoh/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namnoh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Namnoh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+<div align="left">
+    ![Namnoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namnoh&show_icons=true&count_private=true&theme=great-gatsby)
+</div>
+<div align="right">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namnoh&theme=great-gatsby&layout=compact)](https://github.com/Namnoh)
+</div>
 
------
-Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
+</br>
 
-Last Edited on: 06/12/2021
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
