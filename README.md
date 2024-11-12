@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Muñoz</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I have studied Computer Engineering, and I am a tech enthusiast & a self learner.
 
@@ -60,25 +61,17 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
 <a href="https://github.com/Namnoh"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     
 ## GitHub Stats <img src="https://media.giphy.com/media/BOPrq7m5jYS1W/giphy.gif" width="30">&nbsp;
-<p>
+<p align="center">
     <a href="https://github.com/Namnoh/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namnoh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Namnoh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-<table style="width: 100%; border: none;">
-  <tr>
-    <td align="left" style="border: none;">
+<p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Namnoh&show_icons=true&count_private=true&theme=great-gatsby" alt="Namnoh's GitHub stats" />
-    </td>
-    <td align="right" style="border: none;">
       <a href="https://github.com/Namnoh">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namnoh&theme=great-gatsby&layout=compact" alt="Top Langs" />
       </a>
-    </td>
-  </tr>
-</table>
-
+</p>
 </br>
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
