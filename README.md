@@ -54,12 +54,12 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </span>
 
-## Connect with me <iframe src="https://giphy.com/embed/HKbjcQAXAAPdRA3TJ9" width="30" height="30" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>&nbsp;
+## Connect with me <img src="https://media.giphy.com/media/HKbjcQAXAAPdRA3TJ9/giphy.gif" width="30">&nbsp;
 <a href="mailto:ferm.programmer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fernandomunozfrias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Namnoh"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     
-## GitHub Stats ![GitHub Stats GIF](https://media.giphy.com/media/BOPrq7m5jYS1W/giphy.gif)&nbsp;
+## GitHub Stats <img src="https://media.giphy.com/media/BOPrq7m5jYS1W/giphy.gif" width="30">&nbsp;
 <p>
     <a href="https://github.com/Namnoh/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namnoh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Namnoh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
