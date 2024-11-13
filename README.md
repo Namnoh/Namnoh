@@ -63,9 +63,7 @@ I have studied Computer Engineering, and I am a tech enthusiast & a self learner
     
 ## GitHub Stats <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">&nbsp;
 <p>
-    <a href="https://github.com/Namnoh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namnoh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Namnoh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Namnoh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Namnoh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 <p>
