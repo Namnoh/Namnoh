@@ -3,7 +3,7 @@
 
 I have studied Computer Engineering, and I am a tech enthusiast & a self learner.
 
-- 🌱 I’m currently learning <b>React, Next.js, and SvelteKit.</b>
+- 🌱 I’m currently learning <b>React, Next.js, and Astro.</b>
 - 🤝 I’m looking to collaborate on <b>Web Development</b> Related Projects.
 - 😸 I’m open to receiving advice and suggestions.
 - 🥅 2025 Goals: To be profficient in <b>React and Next.js</b>.
